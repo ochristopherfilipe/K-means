@@ -1,1 +1,1 @@
-# K-means
+# Exercício ainda em desenvolvimento
